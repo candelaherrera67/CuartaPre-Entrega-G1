@@ -4,7 +4,7 @@
 - Laura S Gómez Velázquez
 - María Candela Herrera
 - Sofía Vaucelles
-- 
+  
 ###Objetivo del Proyecto:
 El objetivo de este análisis es segmentar los pozos de hidrocarburos en grupos homogéneos utilizando modelos no supervisados para disminuir costos a través del cálculo necesario de agua. Con esta segmentación, se pretende lograr los siguientes objetivos específicos:
 Identificar Clústeres de Pozos Similares:
