@@ -55,9 +55,3 @@ anio	Año de registro
 
 ###Desarrollo:
 Se comenzó con un Análisis Exploratorio de los datos (EDA) que nos permitió responder preguntas de diversos tipos como: ¿Cuántas filas y columnas tiene el dataset?, ¿Hay valores faltantes?, ¿Qué variables tomamos para nuestro objetivo final en común?, entre otras. Se utilizó modelo supervisado como regresión lineal, Random Forest y Gradient Boosting y modelo no supervisado como Knn y Análisis de Componentes PCA.
-
-
-
-     
-
-Table of Contents
